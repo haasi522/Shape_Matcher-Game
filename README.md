@@ -17,7 +17,10 @@ An interactive and educational drag-and-drop game built with HTML, CSS, and Java
 
 - **HTML5** – Structure of the game interface  
 - **CSS3** – Styling and layout (with gradients, popups, and more)  
-- **JavaScript** – Core game logic, drag-and-drop events, shape movement, score tracking  
+- **JavaScript** – Core game logic, drag-and-drop events, shape movement, score tracking
+
+### 🔗 [Play the Game Live](https://haasi522.github.io/shape-matcher/)
+
 
 
 ## Instructions
